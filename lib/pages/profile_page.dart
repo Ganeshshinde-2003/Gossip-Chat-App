@@ -97,7 +97,7 @@ Future<void> _copyToClipboard() async {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.start,
             children: [
-              Icon(Icons.account_circle, size: 200, color: Colors.grey[700],),
+              Icon(Icons.account_circle, size: 150, color: Colors.grey[700],),
               const SizedBox(height: 15,),
               SingleChildScrollView(
                 scrollDirection: Axis.horizontal,
