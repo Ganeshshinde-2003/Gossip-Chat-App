@@ -156,7 +156,6 @@ Future<void> _copyToClipboard() async {
                   );
                 },
               ),
-
             ],
           ),
         ),
